@@ -1,5 +1,6 @@
 ## Flight and Ground Control Software for CANSAT 
 
+The goal of this software is to establish a connection with the CanSat, display real-time sensor data throughout the launch, descent, and landing phases, and enable the transmission of commands directly to the CanSat during these operations.
 ![image](https://github.com/user-attachments/assets/f84fb204-f575-4996-96bd-3a614ee65e4d)
   
   CanSat Process Flow Diagram: A representation of the steps involved in designing, building, testing, and deploying a CanSat system.
