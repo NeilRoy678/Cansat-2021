@@ -1,7 +1,6 @@
 ## Flight and Ground Control Software for CANSAT 
 
-The goal of this software is to establish a connection with the CanSat, display real-time sensor data throughout the launch, descent, and landing phases, and enable the transmission of commands directly to the CanSat during these operations.
-The dashboard was developed using Python, while the code for interfacing with the sensors was implemented in C++.
+The goal of this software is to establish a connection with the CanSat, display real-time sensor data throughout the launch, descent, and landing phases, and enable the transmission of commands directly to the CanSat during these operations. The dashboard was developed using Python, while the code for interfacing with the sensors was implemented in C++.
 
 - CanSat Process Flow Diagram: A representation of the steps involved in designing, building, testing, and deploying a CanSat system.
   
